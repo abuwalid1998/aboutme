@@ -20,7 +20,7 @@
 <a href="https://instagram.com/eng.amjadwkhaliliah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng.amjadwkhaliliah" height="30" width="40" /></a>
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a683c731-eee6-4746-b66c-3ad360e1bbf9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
