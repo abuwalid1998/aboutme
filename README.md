@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/abuwalid1998/aboutme/blob/main/github-header-image.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Amjad Khaliliah</h1>
-<h3 align="center">I'm a passionate Backend & Data Engineer with a strong foundation in developing robust and scalable applications and working with data pipelines. I love turning complex problems into elegant solutions and exploring the world of data to derive meaningful insights.</h3>
+<h3 align="center">I am Amjad Khaliliah, a dedicated and results-oriented computer engineering professional from Palestine, with a Bachelor's degree in Computer Engineering from Palestine Technical University. I am passionate about problem-solving and backend development, having gained significant experience over the past year working on various projects. My expertise lies in designing and implementing efficient backend solutions, collaborating with cross-functional teams, and delivering high-quality software products. I excel in challenging environments that require creativity and innovation, and I am eager to apply my skills to drive technological advancements and make a meaningful impact in the software development field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuwalid1998&label=Profile%20views&color=0e75b6&style=flat" alt="abuwalid1998" /> </p>
 
